@@ -12,5 +12,5 @@
 <a href="https://www.linkedin.com/in/hicham-chaguer-963427229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hicham Chaguer" height="30" width="40" /></a>
 </p>
 <hr>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hchaguer" alt="hchaguer's 42 stats" "style="max-width: 100%;"/></a>
+<img src="https://camo.githubusercontent.com/3f658950fe484e3664b75fc8684892c5c2aed735e55e1f79eceb6ccc87216337/68747470733a2f2f62616467652e6d65646961706c75732e6d612f6461726b677261792f61626c61616d696d" alt="" data-canonical-src="https://badge.mediaplus.ma/darkgray/ablaamim" style="max-width: 100%;">
 <hr>
